@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: blue;
+    color: black;
+}
+
+h1 {
+}
+
+footer {
+    background-color: plum ;
+    padding: 5px ;
+}
+
+footer p {
+    background-color: white ;
+    margin: 5px ;
+}
+
+nav {border: 1px solid black ;}
+
+.ded {
+    background-color: greenyellow ;
+}
+
+.lol{
+    border: 1px solid blue;
+
+}
+
+#discount  {
+    color: blue;
+}
